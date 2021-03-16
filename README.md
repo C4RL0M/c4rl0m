@@ -9,5 +9,11 @@
 - [JavaScript](https://www.javascript.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Work](https://www.instagram.com/cm4gencia/)
 
 
+## CONTACT
+
+- [WhatsApp](https://api.whatsapp.com/send?phone=5551985705174)
+- [Twitter](https://twitter.com/carlos_m1guel)
+- [Instagram](https://www.instagram.com/carlosnowatzki/)
