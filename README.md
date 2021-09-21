@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Carlos Nowatzki I'm a Brazilian FrontEnd | BackEnd Developer and Content Creator.</h1>
 
-![enter image description here](https://github.com/C4RL0M/c4rl0m/blob/main/Laranja%20Comida%20Blogger%20Portf%C3%B3lio%20Site%20(2).jpg)
+![enter image description here](https://media-exp1.licdn.com/dms/image/C4D16AQGyeCEZPZJTYQ/profile-displaybackgroundimage-shrink_200_800/0/1632250741486?e=1637798400&v=beta&t=v7qOCwduXU9JmkU6NhDzHQmA-3m3cmMBirY__AHGMv4)
 
 ## 📝 KNOWLEDGE 
 - [PhP](https://www.php.net/) 
